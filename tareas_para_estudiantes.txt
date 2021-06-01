@@ -1,3 +1,3 @@
 Pregunta:
 que es 5+1:
-Answer: 6
+Answer: Es una suma y el resultado es 6
